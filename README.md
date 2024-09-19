@@ -1,3 +1,3 @@
-# Programowanie zorientowane na dane
+# Data oriented programming (Programowanie zorientowane na dane)
 
-Materiały wykorzystywane podczas zajęć *Programowanie zorientowane na dane*.
+Materials used during the course *Data-oriented programming*.
